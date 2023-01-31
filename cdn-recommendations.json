@@ -1,0 +1,8 @@
+{
+  "cache-status": {
+    "solution": "commerce",
+    "priority": "Severe",
+    "data": "info-fastly-cache-status",
+    "recommendation": "The number of requests delivered by a cache server, divided by the number of cacheable requests (hits + misses), is called the cache hit ratio. \nA high cache hit ratio means you've kept request traffic from hitting your origin unnecessarily. \nRequests come from cache instead. In general, you want your cache hit ratio as high as possible, usually in excess of 90%. \nYou can check your hit ratio by viewing the Stats page for your service.\n"
+  }
+}
