@@ -7,3 +7,4 @@ cache-status:
     A high cache hit ratio means you've kept request traffic from hitting your origin unnecessarily. 
     Requests come from cache instead. In general, you want your cache hit ratio as high as possible, usually in excess of 90%. 
     You can check your hit ratio by viewing the Stats page for your service.
+    This is updated declaration
