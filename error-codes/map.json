@@ -1,0 +1,10 @@
+[
+  {
+    "error": "404 error message",
+    "solution": "link to kb"
+  },
+  {
+    "error": "503 message",
+    "solution": "link to 503 troubleshooter"
+  }
+]
