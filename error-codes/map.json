@@ -6,5 +6,9 @@
   {
     "error": "503 message",
     "solution": "link to 503 troubleshooter"
+  },
+  {
+    "error": "Unauthorized empty column",
+    "solution": "Use the following KB link https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/unauthorized-empty-column/td-p/318178"
   }
 ]
